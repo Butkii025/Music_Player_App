@@ -1,13 +1,11 @@
-# 🎵 Smart Media Player Library
+# 🎵 Media Player Desktop-App
 
-A sleek, lightweight, and permanent desktop audio streaming library application built entirely in Python. Unlike traditional media players that require you to hunt down your audio files every time you open them, this application automatically manages a localized permanent storage vault for your favorite tracks.
+A device-downloadable desktop audio application engineered to run completely offline and independently on each user's machine, with zero cloud or server dependencies, that runs independently on individual devices with zero cloud dependencies. It automates local file caching into a permanent native directory vault (app_music_library) and compiles into a standalone, zero-dependency executable (.exe) for direct client-side execution.
 
----
-## Objective
-
-To design and deploy a standalone desktop media library application utilizing Python and the Tkinter GUI framework, focused on localized data persistence. Engineered an automated filesystem pipeline using low-level OS and Shutil modules to manage a dedicated runtime directory (app_music_library), eliminating redundant user I/O operations. Implemented a zero-dependency deployment strategy via PyInstaller to compile native binaries (.exe), optimizing cross-platform distribution frameworks for non-technical end users.
+From Design to deploy a standalone desktop media library application utilizing Python and the Tkinter GUI framework, focused on localized data persistence. Engineered an automated filesystem pipeline using low-level OS and Shutil modules to manage a dedicated runtime directory (app_music_library), eliminating redundant user I/O operations. 
 
 ---
+
 ## Key Features
 
 * **Persistent Local Library:** Automatically builds an internal storage vault (`app_music_library`) to preserve your music tracks across sessions.
@@ -98,11 +96,14 @@ python music_player.py
 ```
 ***
 ## Visual
+<img width="74" height="92" alt="Screenshot 2026-06-14 000005" src="https://github.com/user-attachments/assets/2ec6a6d1-b6ef-4bc1-a970-0d3b599b8718" />
+
+--
 <img width="333" height="432" alt="Screenshot 2026-06-13 190026" src="https://github.com/user-attachments/assets/b012c62a-8821-4321-b58a-18bc0fa98b8a" />
 
 ***
 ##  Built & Developed By
-Lead Developer: Priyanshu Vijay
+Developer: Priyanshu Vijay
 
 Role: Software/Machine Learning Engineer
 
