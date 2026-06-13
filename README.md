@@ -3,7 +3,11 @@
 A sleek, lightweight, and permanent desktop audio streaming library application built entirely in Python. Unlike traditional media players that require you to hunt down your audio files every time you open them, this application automatically manages a localized permanent storage vault for your favorite tracks.
 
 ---
+## Objective
 
+To design and deploy a standalone desktop media library application utilizing Python and the Tkinter GUI framework, focused on localized data persistence. Engineered an automated filesystem pipeline using low-level OS and Shutil modules to manage a dedicated runtime directory (app_music_library), eliminating redundant user I/O operations. Implemented a zero-dependency deployment strategy via PyInstaller to compile native binaries (.exe), optimizing cross-platform distribution frameworks for non-technical end users.
+
+---
 ## Key Features
 
 * **Persistent Local Library:** Automatically builds an internal storage vault (`app_music_library`) to preserve your music tracks across sessions.
@@ -36,6 +40,7 @@ Music-Player-App/
 ├── .gitignore             # Strict configuration ensuring build binary/music files are kept out of Git tracking
 ├── music_player.py        # Main Python source code architecture containing logic & UI bindings
 └── README.md              # Project documentation, setup roadmap, and deployment manual
+└── License 
 
 ```
 
@@ -77,7 +82,7 @@ Before starting, ensure you have the following installed on your local machine:
 #### Step 1: Clone the Repository
 Open your terminal (Command Prompt, PowerShell, or Git Bash) and run the following command to clone this project to your local machine:
 ```bash
-git clone [https://github.com/your-username/Music-Player-App.git](https://github.com/Butkii025/Music-Player-App.git)
+git clone [https://github.com/Butkii025/Music_Player_App.git](https://github.com/Butkii025/Music_Player_App.git)
 ```
 #### Step 2: Navigate into the Project Directory
 ```
@@ -101,6 +106,7 @@ Role: Software/Machine Learning Engineer
 Purpose: Developed as an open-source tool showcasing native desktop GUI design patterns, automated operating system directory manipulation, and clean binary distribution frameworks.
 
 ## 📝 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](/LICENSE)
+
 
 ***
