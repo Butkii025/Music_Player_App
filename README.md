@@ -12,6 +12,7 @@ From Design to deploy a standalone desktop media library application utilizing P
 * **Frictionless File Importing:** Allows one-click file copying directly from your Downloads or local directories straight into the app's permanent ecosystem.
 * **Zero-Dependency Execution:** Compiled into a standalone executable (`.exe`) file—users can download and run it instantly without installing Python, Pygame, or any external dependencies.
 * **Dynamic UI Feedback:** Built-in live tracking labels to monitor play, pause, stop, and file import success states inside a modern dark-mode aesthetic.
+* **Run Completely Offline:** no required any dependencies or internet, it runs on independent device.
 
 ---
 
