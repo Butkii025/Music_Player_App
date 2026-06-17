@@ -47,25 +47,25 @@ Music-Player-App/
 You don't need to install any programming languages or command-line interfaces to use this app. Follow these straightforward steps to run the software directly on your machine:
 
 ## Step 1: Download the Application
-Head to the right-hand sidebar of this repository page and click on Releases.
+* Head to the right-hand sidebar of this repository page and click on Releases.
 
-Locate the Assets dropdown under the latest stable build version (v1.0.0).
+* Locate the Assets dropdown under the latest stable build version (v1.0.0).
 
-Click on music_player.exe to download the standalone app directly to your device.
+* Click on music_player.exe to download the standalone app directly to your device.
 
 ## Step 2: Launch and Handle Windows Protections
-Navigate to your computer's Downloads folder and double-click music_player.exe.
+* Navigate to your computer's Downloads folder and double-click music_player.exe.
 
 ### Note on Windows SmartScreen: Because this app is built by an independent developer, Windows may display a blue warning box stating "Windows protected your PC".
 
-Simply click "More Info" on that popup, and then click the "Run Anyway" button. The app will open safely and immediately.
+* Simply click "More Info" on that popup, and then click the "Run Anyway" button. The app will open safely and immediately.
 
 ## 🎵 Step 3: Start Listening
-Click the green ➕ Import Single Song File to Library button.
+* Click the green ➕ Import Single Song File to Library button.
 
-Select any audio track (such as an .mp3 or .aac file) from your device.
+* Select any audio track (such as an .mp3 or .aac file) from your device.
 
-The application will automatically duplicate it into your permanent directory layout. Double-click the song name in the app menu to start playing!
+* The application will automatically duplicate it into your permanent directory layout. Double-click the song name in the app menu to start playing!
 
 ***
 ## 👩‍💻 Developer Roadmap: Cloning & Local Execution
@@ -108,7 +108,8 @@ Developer: Priyanshu Vijay
 
 Role: Software/Machine Learning Engineer
 
-Purpose: Developed as an open-source tool showcasing native desktop GUI design patterns, automated operating system directory manipulation, and clean binary distribution frameworks.
+### Purpose: 
+Developed as an open-source tool showcasing native desktop GUI design patterns, automated operating system directory manipulation, and clean binary distribution frameworks.
 
 ## 📝 License
 This project is open-source and available under the MIT License  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](/LICENSE)
