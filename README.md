@@ -97,14 +97,12 @@ python music_player.py
 ```
 ***
 ## Visual
-<img width="74" height="92" alt="Screenshot 2026-06-14 000005" src="https://github.com/user-attachments/assets/2ec6a6d1-b6ef-4bc1-a970-0d3b599b8718" />
-
---
+<img width="74" height="92" alt="Screenshot 2026-06-14 000005" src="https://github.com/user-attachments/assets/2ec6a6d1-b6ef-4bc1-a970-0d3b599b8718" /><br/><br/><br/>
 <img width="333" height="432" alt="Screenshot 2026-06-13 190026" src="https://github.com/user-attachments/assets/b012c62a-8821-4321-b58a-18bc0fa98b8a" />
 
 ***
 ##  Built & Developed By
-Developer: Priyanshu Vijay
+Developer: [Priyanshu Vijay](https://p-vijay.vercel.app/)
 
 Role: Software/Machine Learning Engineer
 
