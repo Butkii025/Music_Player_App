@@ -1,6 +1,6 @@
 # 🎵 Media Player Desktop-App
 
-A _device-downloadable_ desktop audio application engineered to _run completely offline_ and independently on each user's machine, with zero cloud or server dependencies, that runs independently on individual devices with zero cloud dependencies. It automates local file caching into a permanent native directory vault (app_music_library) and compiles into a standalone, zero-dependency executable (.exe) for direct client-side execution.
+A device-downloadable desktop audio application engineered to run completely offline and independently on each user's machine, with zero cloud or server dependencies, that runs independently on individual devices with zero cloud dependencies. It automates local file caching into a permanent native directory vault (app_music_library) and compiles into a standalone, zero-dependency executable (.exe) for direct client-side execution.
 
 From Design to deploy a standalone desktop media library application utilizing Python and the Tkinter GUI framework, focused on localized data persistence. Engineered an automated filesystem pipeline using low-level OS and Shutil modules to manage a dedicated runtime directory (app_music_library), eliminating redundant user I/O operations. 
 
